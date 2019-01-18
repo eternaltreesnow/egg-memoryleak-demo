@@ -1,0 +1,13 @@
+{
+  "name": "egg-memoryleak-demo",
+  "version": "1.0.0",
+  "description": "Demo for egg-core memory-leak",
+  "main": "app.js",
+  "author": "eternaltreesnow",
+  "license": "MIT",
+  "dependencies": {
+    "egg": "^2.14.2",
+    "egg-core": "^4.13.1",
+    "heapdump": "^0.3.12"
+  }
+}
